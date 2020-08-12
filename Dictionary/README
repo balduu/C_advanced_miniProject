@@ -1,0 +1,24 @@
+
+Project 1: English-Vietnamese Dictionary using BTree
+		without GUI
+Author : Nguyễn Bảo Đức - balduu
+
+( Open Terminal )
+compile command : gcc -o dict dict.c -Lbtree/lib -lbt -Ibtree/inc
+Run command	: ./dict
+First run will take time to create tudien and soundexTree file
+(About 1.2GB so... just wait)
+
+Function case: 
+1- Word finding (auto complete)
+   Press 'Tab' to get the first result 
+   Press 'Enter' to get the result in textbox
+   If there is no result then the program will suggest some 
+
+2- Insert into dictionary
+
+3- Fix a word in dictionary
+
+4- Remove a word in dictionary
+
+5- Exit 

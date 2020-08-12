@@ -1,0 +1,22 @@
+
+Project 1: Create a Fortress matrix using Graph
+		without GUI
+Author : Nguyễn Bảo Đức - balduu
+
+( Open Terminal )
+compile command : gcc -w -o test NguyenBaoDuc.c jrb.c dllist.c jval.c
+Run command	: ./test
+
+Function case: 
+1- Show the Fortress matrix
+
+2- Show all the nearest fortress
+
+3- Show all the fortress can ussing walking way 
+	and the fortress having the most near fortress
+
+4- Shortese way between 2 fortress
+
+5- 2 fortress have the shortest distance 
+
+6- Exit 

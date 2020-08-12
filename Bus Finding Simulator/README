@@ -1,0 +1,21 @@
+
+Project 2: Bus findind simulator using  Graph
+		without GUI
+Author : Trương Công Toàn - my partner
+
+( Open Terminal )
+compile command : gcc -o bus Bus.c
+Run command	: ./bus
+
+Function case: 
+0- Exit 
+
+1- Check if a place's in Hanoi
+
+2- Check if 2 place are direcaly link to each other
+
+3- Show all place direcaly linking to your place
+
+4- Show all way cross a place
+
+5- Find best way between 2 place
